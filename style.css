@@ -1,0 +1,101 @@
+body{
+    background: linear-gradient(#ff00cc,#4A00E0) no-repeat center fixed;
+    background-size: cover;
+    height: 625px;
+}
+.card{
+    position: absolute;
+}
+img{
+    position: absolute;
+    margin-top: -44px ;
+    margin-left: 113px;
+}
+.card-body{
+    margin-top: 60px;
+}
+.card-title{
+    font-size: 45px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#red{
+    text-align: center;
+}
+@media(max-width:360px){
+    body{
+        height: 640px;
+    }
+    .card{
+        width: 304px !important;
+    }
+    .card-title{
+        font-size: 39px;
+    }
+    img{
+        margin-left: 97px !important;
+    }
+}
+@media(max-width:411px){
+    body{
+        height: 731px !important;
+    }
+    .card{
+        margin-left: 28px !important;
+    }
+}
+@media(max-width:320px){
+    img{
+        margin-left: 91px !important;
+    }
+    .card-title{
+        font-size: 34px !important;
+    }
+    .card{
+        margin-left: 4px;
+        width: 277px !important;
+    }
+}
+@media(max-width:375px){
+    .card{
+        margin-left: 15px !important; 
+    }
+}
+@media(max-width:414px){
+    body{
+        height: 700px;
+    }
+    .card{
+        margin-left: 29px !important;
+    }
+}
+@media(max-width:768px){
+    .card{
+        width: 318px;
+    margin-left: -35px;
+    }
+    .card-title{
+        font-size: 36px;
+    }
+    body{
+        height: 700px;
+    }
+}
+@media(max-width:1024px){
+    .card-title{
+        font-size: 38px;
+    }
+    img{
+        margin-left: 97px;
+    }
+    body{
+        height: 700px;
+    }
+}
+@media(max-width:375px){
+    .card{
+        margin-left: 14px !important;
+    }
+    img{
+        margin-left: 102px;
+    }
+}
