@@ -9,7 +9,7 @@ body{
 img{
     position: absolute;
     margin-top: -44px ;
-    margin-left: 113px;
+    margin-left: 124px;
 }
 .card-body{
     margin-top: 60px;
@@ -27,20 +27,28 @@ img{
     }
     .card{
         width: 304px !important;
-    }
+        
+    margin-left: 3px !important;
+}
+
+ 
     .card-title{
         font-size: 39px;
     }
     img{
-        margin-left: 97px !important;
-    }
+        margin-left: 95px !important;
 }
+}
+ 
 @media(max-width:411px){
     body{
         height: 731px !important;
     }
     .card{
         margin-left: 28px !important;
+    }
+    img{
+        
     }
 }
 @media(max-width:320px){

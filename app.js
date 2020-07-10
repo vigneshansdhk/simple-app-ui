@@ -1,107 +1,107 @@
 var arr = [
     [
         'a',
-        'I Miss u chellam'
+        'I Miss u chellam &#128151'
     ],
     [
         'b',
-        'Always Pray 4 u'
+        'Always Pray 4 u &#128522'
     ],
     [
         'c',
-        'Fooling u'
+        'Fooling u &#128541'
     ],
     [
         'd',
-        'Hugs with Love'
+        'Hugs with Love &#128525'
     ],
     [
         'e',
-        'Big Enemy of u'
+        'Big Enemy of u &#128544'
     ],
     [
         'f',
-        'Lovely sister/Brother'
+        'Lovely sister/Brother &#128522'
     ],
     [
         'g',
-        'Very Noughty'
+        'Very Noughty &#128526'
     ],
     [
         'h',
-        'Loves u But Not showing'
+        'Loves u But Not showing &#128521'
     ],
     [
         'i',
-        'Close Friend'
+        'Close Friend &#128522'
     ],
     [
         'j',
-        'Life Long Friend'
+        'Life Long Friend &#128536'
     ],
     [
         'k',
-        'Love u'
+        'Love u &#128536'
     ],
     [
         'l',
-        'I Need As Like Partner'
+        'I Need As Like Partner &#128112;&#127995'
     ],
     [
         'm',
-        'Best Mother'
+        'Best Mother &#128105'
     ],
     [
         'n',
-        'Dear Friend'
+        'Dear Friend &#128535'
     ],
     [
         'o',
-        'I want kiss u'
+        'I want kiss u &#128536'
     ],
     [
       'p',
-      'Only Love'
+      'Only Love &#128515'
     ],
     [
       'q',
-      'Ignore u'
+      'Ignore u &#128527'
     ],
     [
         'r',
-        'really loves u'
+        'really loves u &#128151'
     ],
     [
         's',
-        'I love you'
+        'I love you &#128536'
     ],
     [
         't',
-        'I like u'
+        'I like u &#128525'
     ],
     [
       'u',
-      'Always Respect u'
+      'Always Respect u &#128151'
     ],
     [
        'v',
-       'I Want A Lip Kiss'
+       'I Want A Lip Kiss &#128536'
     ],
     [
         'w',
-        'Want To Propose'
+        'Want To Propose U &#128070'
     ],
     [
         'x',
-        'You Lucky'
+        'You Lucky &#128579'
     ],
     [
         'y',
-        'Uses U'
+        'Uses U &#128530'
     ],
     [
         'z',
-        'Emotional Abt U !'
+        'Emotional Abt U ! &#128545'
     ]
 ];
  function add(){
