@@ -107,7 +107,7 @@ var arr = [
  function add(){
     var hi = document.getElementById('blue').value.toLowerCase();
     if(hi.length > 1){
-        alert('please enter only one number');
+        alert('please enter only one letter');
         document.getElementById('blue').value = '';
         return false;
     }
